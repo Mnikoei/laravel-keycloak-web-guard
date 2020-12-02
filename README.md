@@ -5,7 +5,7 @@
 
 # Keycloak Web Guard for Laravel
 
-This packages allow you authenticate users with [Keycloak Server](https://www.keycloak.org).
+This packages is an adaptor for [Keycloak Server](https://www.keycloak.org).
 
 It works on front. For APIs we recommend [laravel-keycloak-guard](https://github.com/robsontenorio/laravel-keycloak-guard).
 
